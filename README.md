@@ -1,4 +1,5 @@
-<a align="left" src="https://github.com/ngc4579/ngc4579/blob/1a35b48deac14d702f3633779837fb22737ebcae/img/alma-480.png"/>
+
+![ALMA expressed in letters](https://github.com/ngc4579/ngc4579/blob/main/img/alma-480.png?raw=true)
 
 **Software Craftsman, Platform Engineer, Observability / DevOps enthusiast.** 🤓</br>
 _#java_ _#k8s_ _#grafana_ _#apachekafka_
@@ -8,4 +9,4 @@ _#deathrock_ _#postpunk_ _#indierock_ _#minimalsynth_
 
 **Family guy, dog lover, cyclist, strange geek. Meh, whatever.** 🤪
 
-*Image made with [one](https://github.com/xenodium/one)*
+*Images made with [one](https://github.com/xenodium/one)*
