@@ -1,5 +1,5 @@
 **Software Craftsman, DevOps Engineer, Observability enthusiast.** 🤓</br>
-_#java_ _#k8s_ _#grafana_ _#apachekafka_ _#noai_
+_#go_ _#java_ _#quarkus_ _#spring-boot_ _#k8s_ _#grafana_ _#apachekafka_ _#opensearch_ _#noai_
 
 **Music addict, into all kinds of weird stuff, occasionally DJing.** 🦇</br>
 _#deathrock_ _#postpunk_ _#indierock_ _#minimalsynth_
